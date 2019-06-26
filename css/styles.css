@@ -12,21 +12,13 @@ body {
     height: 100vh;
 }
 
-#about-me {
+#experiences {
     background-color: #fff;
     color: #009975;
 }
 
 .container-fluid {
     padding: 2% 15%;
-}
-
-/* .title-padding {
-    padding: 1rem 0;
-} */
-
-.section-separator {
-    padding: 100px 0;
 }
 
 h1 {
@@ -133,4 +125,5 @@ address {
 
 .text-center {
     text-align: center!important;
+    max-width: 50%;
 }
